@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hafeez ur Rehman
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning PHP and MySQL
 - 💞️ I’m looking to collaborate on HTML, CSS, Javascript, Tailwind CSS, Bootstrap.
 - 📫 How to reach me hafeez.sleeps@gmail.com
 - 😄 Pronouns: ...
